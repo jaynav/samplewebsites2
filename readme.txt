@@ -1,0 +1,1 @@
+parts of these class projects are missing because i took them off since some of it was redundant items i have on flickr. mostly pictures. other stuff is online for free. mostly what is here should be code with flash video i made and items to make the site run partially 

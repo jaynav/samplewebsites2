@@ -1,0 +1,78 @@
+﻿@charset "utf-8";
+/* CSS Document designed and created by navarro web holdings.
+ a division of javier's imaginary group of companies
+ developed for CIS 421. this is the webmaster css for project 1
+ CC share-a-like license */
+
+html, body{
+	margin:1px;
+	padding:5px;
+	text-align:left;
+  	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	background-color:#666;
+} 
+p {padding: 5px;}
+
+a img { border:none;}
+h1{
+	font-size:24px;
+	}
+h2{
+	font-size:20px;
+	}
+h3{
+	font-size:18px;
+	}
+h4{
+	font-size:16px;
+	} 
+h5{
+	font-size:14px;
+	}
+h6{
+	font-size:10px;
+	}
+#pagewidth{ 
+ width:1000px; 
+ text-align:left; 
+ margin:0 auto; 
+} 
+#header{
+	position:relative;
+	text-align:center;
+	height:55px;
+	
+	border-bottom-style:solid;
+	border-bottom-width: 1px;
+	font-family:"Comic Sans MS", cursive;
+	
+} 
+ .centerwords
+ 
+ {text-align:center;}
+#picturefloat
+{
+padding:3px;}
+#leftcol{
+ width:50px; 
+ float:left; 
+ position:relative; 
+ background-color:#FFFFFF; 
+ }
+ 
+#maincol{
+ background-color: #FFFFFF;  
+ position: relative; 
+ width:950px;
+ float:right; 
+ }
+ 
+#footer{
+	height:75px;
+	background-color:#099;
+	border-top-style:solid;
+	border-top-width: 1px;
+} 
+#footer li {display:inline;}
+ 

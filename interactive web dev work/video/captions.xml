@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+<head>
+<styling>
+  <style id="1" tts:textAlign="right" /> 
+  <style id="2" tts:color="transparent" /> 
+  <style id="3" style="2" tts:backgroundColor="white" /> 
+  <style id="4" style="2 3" tts:fontSize="20" /> 
+  </styling>
+  </head>
+<body>
+<div xml:lang="en">
+<p begin="00:00:00.00" >so cal travel</p>
+<p begin="00:00:03.00" >your traveling down the same road</p>
+<p begin="00:00:08.00" >at the same time</p>
+<p begin="00:00:12.00" >on the same bad road</p>
+<p begin="00:00:18.00" >in the same area</p>
+<p begin="00:00:25.00" >in the same building</p>
+<p begin="00:00:29.00" >in a structurally unsafe building</p>
+<p begin="00:00:34.00" >well then maybe you need to get away from</p>
+<p begin="00:00:35.00" >the same routine by</p>
+<p begin="00:00:36.00" >traveling to parks</p>
+<p begin="00:00:38.00" >in order to explore the wonders all around us</p>
+<p begin="00:00:40.00" >such as experiencing a bear eating your food</p>
+<p begin="00:00:44.00" >or experiencing how small you are</p>
+<p begin="00:00:50.00" >around the natrual beauty that surrounds us all</p>
+<p begin="00:00:56.00" >explore historic lighthouses</p>
+<p begin="00:00:59.00" >missions</p>
+<p begin="00:01:00.00" >historic silver mining towns</p>
+<p begin="00:01:06.00" >no really take off from the routine and explore</p>
+<p begin="00:01:12.00" >socal</p>
+<p begin="00:01:13.50" >like you have never before</p>
+<p begin="00:01:12.00" >for more info on travel locations</p>
+<p begin="00:01:16.00" >see the attractions page on </p>
+<p begin="00:01:19.00" > the socal travel website.</p>
+<p begin="00:01:23.00" >for more info on travel destinations in socal</p>
+<p begin="00:01:25.00" >now what are you waiting for. lets go and explore</p>
+<p begin="00:01:27.00" >:D Creative Commons Share Alike</p>
+  </div>
+  </body>
+  </tt>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='530px' height='383px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<g transform="translate(-21.3306,-10.036)">
+	<g transform="translate(-1.15,0) scale(1.04561,1)">
+			<path d="M 491.95 378 L 31 378 L 31 69 L 491.95 69 Z" fill="#FFFFFF"/>
+			<path d="M 491.95 378 L 31 378 L 31 69 L 491.95 69 Z" fill="none" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#FFFFFF"/>
+	</g>
+	<g transform="translate(-1.15,0) scale(1.04561,1)">
+			<path d="M 127 32 L 127 69 L 126 69 L 126 32 Z" fill="#FFFFFF"/>
+			<path d="M 127 32 L 127 69 L 126 69 L 126 32 Z" fill="none" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#FFFFFF"/>
+	</g>
+	<g transform="translate(-1.15,-2.05) scale(1.04561,1.15105)">
+			<path d="M 521.95 11 Q 526.95 11 526.95 16 L 526.95 337 Q 526.95 342 521.95 342 L 27 342 Q 22 342 22 337 L 22 16 Q 22 11 27 11 Z" fill="#FFFFFF"/>
+			<path d="M 521.95 11 L 27 11 Q 22 11 22 16 L 22 337 Q 22 342 27 342 L 521.95 342 Q 526.95 342 526.95 337 L 526.95 16 Q 526.95 11 521.95 11 Z" fill="none" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#FFFFFF"/>
+	</g>
+	</g>
+</svg>

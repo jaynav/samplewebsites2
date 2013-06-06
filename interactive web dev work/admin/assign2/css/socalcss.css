@@ -1,0 +1,133 @@
+﻿/* CSS Document created by javier navarro for CIS421*/
+
+body {
+	margin:0 auto;
+	padding:0;
+	border:0;		
+	/*width:800px;*/
+	width:100%;
+	max-width: 1600px;
+	min-width: 800px 
+	/*font-size:90%;
+	background:#FFF;*/ 	
+	
+	
+}
+#cse{
+	float:right;
+}
+#logo{
+margin:0 auto;
+width:800px;
+height:100px;
+background:url(../images/logo.png) no-repeat;}
+
+/*css sprite for navigation*/
+li{
+	display:inline;
+	list-style-type:none
+}
+
+#navigation{
+	margin:0 auto;
+	padding:0;
+	height:100px;
+	width: 800px;
+	background:url(../images/header.png) no-repeat; display:block;
+}
+#navigation li { margin:0; padding:0; list-style-type:none; display:inline; height:90px; text-align:center; float:left; line-height:90px; }
+
+#navigation a { display:block; height:90px; }
+#navigation a:hover { background:url(../images/header.png) no-repeat; }
+
+#home{width:136px;}
+#home a:hover{background-position: 0px bottom;}
+#about{width:136px;}
+#about a:hover{background-position: -136px bottom;}
+#attractions{width:245px;}
+#attractions a:hover{background-position: -272px bottom;}
+#planner{width:280px;}
+#planner a:hover{background-position: -517px bottom;}
+#navigation span { display:none; }
+
+
+a:hover {
+	color:#fff;
+	background:#369;
+	text-decoration:none;
+}
+h1, h2, h3 {
+	margin:.8em 0 .2em 0;
+	padding:0;
+}
+p {
+	margin:.4em 0 .8em 0;
+	padding:0;
+}
+img {
+	margin:10px 0 5px;
+}
+
+#submenu {
+	clear:both;
+	background:#eee;
+	border-top:4px solid #000;
+	margin:0;
+	padding:6px 15px;
+	text-align:right;
+}
+
+/*column settings */
+.colright,
+.colmid,
+.colleft {
+	float:left;
+	width:100%;			
+	position:relative;
+}
+.col1,
+.col2,
+.col3 {
+	float:left;
+	position:relative;
+	padding:0 0 1em 0;	
+	overflow:hidden;
+}
+
+.columndesign {
+	overflow:hidden;
+	background:#eee;			
+}
+.columndesign .colmid {
+	right:25%;			
+	background:#f4f4f4;		
+}
+.columndesign .colleft {
+	right:50%;				
+	background:#DBE0F9			
+}
+.columndesign .col1 {
+	width:46%;				
+	left:102%;				
+}
+.columndesign .col2 {
+	width:21%;				
+	left:31%;				
+}
+.columndesign .col3 {
+	width:21%;				
+	left:85%;				
+}
+/* Footer */
+#footer {
+	clear:both;
+	float:left;
+	width:100%;
+	border-top:1px solid #000;
+	background-color:#E2DAEB;
+}
+#footer p {
+	padding:10px;
+	margin:0;
+	text-align:center;
+}
